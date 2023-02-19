@@ -11,4 +11,4 @@ It has the following functionalities:
 - Use this button to reset the timer to 00:00:00.
 
 # REQUIREMENTS #
-pip install tk
+> pip install tk
